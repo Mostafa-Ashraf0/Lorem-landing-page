@@ -165,7 +165,7 @@ html{
 }
 
 .landing{
-    background-image: url("../photo/beautiful-scenery-mountain-range-covered-with-snow-cloudy-sky.jpg");
+    background-image: url("../photo/main.jpg");
     height: calc(100vh - 64px);
     background-size: cover;
     position: relative;
