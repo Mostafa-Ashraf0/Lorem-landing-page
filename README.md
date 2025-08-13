@@ -12,9 +12,7 @@ A modern landing page
 
 ## :sparkler: Features
 
-  - **:iphone: side menu :** simple side menu that opens when user click on an icon which contain some features like changing the theme color of the website, activate random background option and activate navigation bullets.
-  - **:iphone: Navigation bullets :** navigation bullets bar that facilitate the user experience to reach specific section in the site.
-
+  Just a simple landing page using HTML and CSS 
 
 ## :computer: Technology Stack
 <div>
